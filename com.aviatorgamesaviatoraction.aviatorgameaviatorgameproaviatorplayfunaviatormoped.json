@@ -1,0 +1,12 @@
+{
+  "start_redirect": false,
+  "Back_QuraADS": false,
+  "qureka_url": "https://www.google.com",
+  "qureka_back_url": "https://www.google.com",
+  "multipleClickAd": "0",
+  "t_native": "native_placement_id",
+  "t_banner": "banner_placement_id",
+  "t_inter": "interstitial_placement_id",
+  "t_splash": "splash_placement_id",
+  "show_ads": "topon"
+}
