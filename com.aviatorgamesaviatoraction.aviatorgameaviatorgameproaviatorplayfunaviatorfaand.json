@@ -1,1 +1,13 @@
 
+{
+  "start_redirect": true,
+  "Back_QuraADS": false,
+  "qureka_url": "https://808.mark.qureka.com/intro/question",
+  "qureka_back_url": "https://808.mark.qureka.com/intro/question",
+  "multipleClickAd": "3",
+  "t_native": "native_placement_id",
+  "t_banner": "banner_placement_id",
+  "t_inter": "interstitial_placement_id",
+  "t_splash": "splash_placement_id",
+  "show_ads": "qureka"
+}
