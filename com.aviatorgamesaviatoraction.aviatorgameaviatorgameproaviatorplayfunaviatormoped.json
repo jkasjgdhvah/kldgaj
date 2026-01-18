@@ -1,8 +1,8 @@
 {
   "start_redirect": false,
-  "Back_QuraADS": false,
-  "qureka_url": "https://www.google.com",
-  "qureka_back_url": "https://www.google.com",
+  "Back_QuraADS": true,
+  "qureka_url": "https://808.mark.qureka.com/intro/question",
+  "qureka_back_url": "https://808.mark.qureka.com/intro/question",
   "multipleClickAd": "1",
   "t_native": "native_placement_id",
   "t_banner": "banner_placement_id",
