@@ -1,10 +1,10 @@
 {
     "qBack_url": "https://808.mark.qureka.com/intro/question",
     "q_url": "https://808.mark.qureka.com/intro/question",
-    "ads": "Qureka",
+    "ads": "Adx",
     "splashRedirect": "No",
-    "adx_appopen": "/6499/example/app-open",
-    "adx_native": "/6499/example/native",
-    "adx_banner": "/6499/example/banner",
-    "adx_interstitial": "/6499/example/interstitial"
+    "adx_appopen": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_splash",
+    "adx_native": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_native",
+    "adx_banner": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_banner",
+    "adx_interstitial": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_inter"
 }
