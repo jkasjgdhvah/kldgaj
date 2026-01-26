@@ -1,10 +1,44 @@
 {
-    "qBack_url": "https://808.mark.qureka.com/intro/question",
-    "q_url": "https://808.mark.qureka.com/intro/question",
-    "ads": "Adx",
-    "splashRedirect": "No",
-    "adx_appopen": "ca-app-pub-3940256099942544/9257395921",
-    "adx_native": "ca-app-pub-3940256099942544/2247696110",
-    "adx_banner": "ca-app-pub-3940256099942544/9214589741",
-    "adx_interstitial": "ca-app-pub-3940256099942544/1033173712"
+  "parameters": {
+    "qBack_url": {
+      "defaultValue": {
+        "value": "https://808.mark.qureka.com/intro/question"
+      }
+    },
+    "q_url": {
+      "defaultValue": {
+        "value": "https://808.mark.qureka.com/intro/question"
+      }
+    },
+    "ads": {
+      "defaultValue": {
+        "value": "Adx"
+      }
+    },
+    "splashRedirect": {
+      "defaultValue": {
+        "value": "No"
+      }
+    },
+    "adx_appopen": {
+      "defaultValue": {
+        "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_splash"
+      }
+    },
+    "adx_native": {
+      "defaultValue": {
+        "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_native"
+      }
+    },
+    "adx_banner": {
+      "defaultValue": {
+        "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_banner"
+      }
+    },
+    "adx_interstitial": {
+      "defaultValue": {
+        "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc_nine_inter"
+      }
+    }
+  }
 }
