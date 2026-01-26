@@ -1,10 +1,44 @@
 {
-    "qBack_url": "https://808.mark.qureka.com/intro/question",
-    "q_url": "https://808.mark.qureka.com/intro/question",
-    "ads": "Qureka",
-    "splashRedirect": "No",
-    "adx_appopen": "/6499/example/app-open",
-    "adx_native": "/6499/example/native",
-    "adx_banner": "/6499/example/banner",
-    "adx_interstitial": "/6499/example/interstitial"
+    "parameters": {
+        "qBack_url": {
+            "defaultValue": {
+                "value": "https://808.mark.qureka.com/intro/question"
+            }
+        },
+        "q_url": {
+            "defaultValue": {
+                "value": "https://808.mark.qureka.com/intro/question"
+            }
+        },
+        "ads": {
+            "defaultValue": {
+                "value": "Adx"
+            }
+        },
+        "splashRedirect": {
+            "defaultValue": {
+                "value": "No"
+            }
+        },
+        "adx_appopen": {
+            "defaultValue": {
+                "value": "ca-app-pub-3940256099942544/9257395921"
+            }
+        },
+        "adx_native": {
+            "defaultValue": {
+                "value": "ca-app-pub-3940256099942544/2247696110"
+            }
+        },
+        "adx_banner": {
+            "defaultValue": {
+                "value": "ca-app-pub-3940256099942544/9214589741"
+            }
+        },
+        "adx_interstitial": {
+            "defaultValue": {
+                "value": "ca-app-pub-3940256099942544/1033173712"
+            }
+        }
+    }
 }
