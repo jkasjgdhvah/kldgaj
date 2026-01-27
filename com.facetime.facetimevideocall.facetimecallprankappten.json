@@ -22,22 +22,22 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "ca-app-pub-3940256099942544/9257395921"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall.facetimecallprankappten_AppOpen"
             }
         },
         "adx_native": {
             "defaultValue": {
-                "value": "ca-app-pub-3940256099942544/2247696110"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall.facetimecallprankappten_Native"
             }
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "ca-app-pub-3940256099942544/9214589741"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall.facetimecallprankappten_Banner"
             }
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "ca-app-pub-3940256099942544/1033173712"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall.facetimecallprankappten_Interstitial"
             }
         }
     }
