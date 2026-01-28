@@ -8,7 +8,7 @@
   "t_banner": "banner_placement_id",
   "t_inter": "interstitial_placement_id",
   "t_splash": "splash_placement_id",
-  "show_ads": "qureka"
-  "game_mode_v2_active": "true"
+ "show_ads": "qureka",
+  "game_mode_v2_active": true,
   "game_mode_url": "https://www.google.com"
 }
