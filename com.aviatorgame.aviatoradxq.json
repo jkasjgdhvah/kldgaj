@@ -2,7 +2,7 @@
   "start_redirect": false,
   "qureka_url": "https://google.com",
   "qureka_back_url": "https://example.com/your-back-url",
-  "ads": "qureka",
+  "ads": "off",
   "adx_interstitial": "/6499/example/interstitial",
   "adx_banner": "/6499/example/banner",
   "adx_native": "/6499/example/native",
