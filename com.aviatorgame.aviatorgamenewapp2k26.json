@@ -1,12 +1,10 @@
 {
-    "show_ads": "qureka",
-    "start_redirect": true,
-    "Back_QuraADS": false,
-    "qureka_url": "https://808.mark.qureka.com/intro/question",
-    "qureka_back_url": "https://808.mark.qureka.com/intro/question",
-    "multipleClickAd": "3",
-    "t_native": "native_placement_id",
-    "t_banner": "banner_placement_id",
-    "t_inter": "interstitial_placement_id",
-    "t_splash": "splash_placement_id"
+  "start_redirect": true,
+  "qureka_url": "https://996.mark.qureka.com/intro/question",
+  "qureka_back_url": "https://996.mark.qureka.com/intro/question",
+  "ads": "off",
+  "adx_interstitial": "/6499/example/interstitial",
+  "adx_banner": "/6499/example/banner",
+  "adx_native": "/6499/example/native",
+  "adx_appopen": "/6499/example/app_open"
 }
