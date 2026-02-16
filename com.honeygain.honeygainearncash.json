@@ -2,7 +2,7 @@
   "start_redirect": false,
   "qureka_url": "https://996.mark.qureka.com/intro/question",
   "qureka_back_url": "https://996.mark.qureka.com/intro/question",
-  "ads": "qureka",
+  "ads": "adx",
   "adx_interstitial": "/6499/example/interstitial",
   "adx_banner": "/6499/example/banner",
   "adx_native": "/6499/example/native",
