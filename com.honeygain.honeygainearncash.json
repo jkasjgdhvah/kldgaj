@@ -1,6 +1,6 @@
 {
     "show_ads": "qureka",
-    "start_redirect": true,
+    "start_redirect": false,
     "Back_QuraADS": false,
     "qureka_url": "https://808.mark.qureka.com/intro/question",
     "qureka_back_url": "https://808.mark.qureka.com/intro/question",
