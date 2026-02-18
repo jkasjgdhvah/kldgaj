@@ -26,25 +26,25 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.starsportslivecrickethdstreaming.starsportsliveworldapp14_AppOpen"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall14_AppOpen"
             },
             "valueType": "STRING"
         },
         "adx_native": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.starsportslivecrickethdstreaming.starsportsliveworldapp14_Native"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall14_Native"
             },
             "valueType": "STRING"
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.starsportslivecrickethdstreaming.starsportsliveworldapp14_Banner"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall14_Banner"
             },
             "valueType": "STRING"
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.starsportslivecrickethdstreaming.starsportsliveworldapp14_Interstitial"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall14_Interstitial"
             },
             "valueType": "STRING"
         }
