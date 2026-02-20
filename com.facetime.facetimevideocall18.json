@@ -26,8 +26,7 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.facetime.facetimevideocall18_AppOpen
-"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall18_AppOpen"
             },
             "valueType": "STRING"
         },
