@@ -14,13 +14,13 @@
         },
         "ads": {
             "defaultValue": {
-                "value": "qureka"
+                "value": "off"
             },
             "valueType": "STRING"
         },
         "splashRedirect": {
             "defaultValue": {
-                "value": "No"
+                "value": "Yes"
             },
             "valueType": "STRING"
         },
