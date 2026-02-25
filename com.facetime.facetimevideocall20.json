@@ -14,37 +14,37 @@
         },
         "ads": {
             "defaultValue": {
-                "value": "off"
+                "value": "Adx"
             },
             "valueType": "STRING"
         },
         "splashRedirect": {
             "defaultValue": {
-                "value": "Yes"
+                "value": "No"
             },
             "valueType": "STRING"
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/6499/example/app-open"
+                "value": "/21753324030,23332521152/com.loanlelo.loanemi.calculator_AppOpen"
             },
             "valueType": "STRING"
         },
         "adx_native": {
             "defaultValue": {
-                "value": "/6499/example/native"
+                "value": "/21753324030,23332521152/com.loanlelo.loanemi.calculator_Native"
             },
             "valueType": "STRING"
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "/6499/example/banner"
+                "value": "/21753324030,23332521152/com.loanlelo.loanemi.calculator_Banner"
             },
             "valueType": "STRING"
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "/6499/example/interstitial"
+                "value": "/21753324030,23332521152/com.loanlelo.loanemi.calculator_Interstitial"
             },
             "valueType": "STRING"
         }
