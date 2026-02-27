@@ -14,7 +14,7 @@
         },
         "ads": {
             "defaultValue": {
-                "value": "Qureka"
+                "value": "Adx"
             },
             "valueType": "STRING"
         },
@@ -26,25 +26,25 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/6499/example/app-open"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall23_AppOpen"
             },
             "valueType": "STRING"
         },
         "adx_native": {
             "defaultValue": {
-                "value": "/6499/example/native"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall23_Native"
             },
             "valueType": "STRING"
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "/6499/example/banner"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall23_Banner"
             },
             "valueType": "STRING"
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "/6499/example/interstitial"
+                "value": "/21753324030,22866671283/com.facetime.facetimevideocall23_Interstitial"
             },
             "valueType": "STRING"
         }
