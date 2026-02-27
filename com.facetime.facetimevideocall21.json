@@ -14,7 +14,7 @@
         },
         "ads": {
             "defaultValue": {
-                "value": "adx"
+                "value": "Adx"
             },
             "valueType": "STRING"
         },
