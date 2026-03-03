@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-03T18:30:00Z",
+  "matches": [
+    {
+      "id": "match_001",
+      "status": "live",
+      "tournament": "Asia Cup 2026",
+      "team1": "India",
+      "team2": "Australia",
+      "match_time": "2026-03-03T19:00:00Z",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/01/14/400x225/canada_1768403901586_1768403909159.jpg",
+      "streams": [
+        {
+          "name": "Server 1 HD",
+          "quality": "1080p",
+          "type": "hls",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        },
+        {
+          "name": "Server 2 SD",
+          "quality": "720p",
+          "type": "hls",
+          "url": "https://storage.googleapis.com/wvmedia/cenc/h264/tears/tears.mpd%7CdrmScheme=widevine&drmLicense=https://proxy.uat.widevine.com/proxy?video_id=GTS_HW_SECURE_ALL&provider=widevine_test"
+        }
+      ]
+    },
+    {
+      "id": "match_002",
+      "status": "upcoming",
+      "tournament": "IPL 2026",
+      "team1": "Mumbai",
+      "team2": "Chennai",
+      "match_time": "2026-03-05T19:30:00Z",
+      "image": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/newsfirstprime/media/media_files/2025/12/30/cricket-news-2025-12-30-09-53-02-2025-12-30-11-34-34.webp",
+      "streams": []
+    }
+  ]
+}
