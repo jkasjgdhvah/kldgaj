@@ -26,25 +26,25 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/6499/example/app-open"
+                "value": "ca-app-pub-3940256099942544/9257395921"
             },
             "valueType": "STRING"
         },
         "adx_native": {
             "defaultValue": {
-                "value": "/6499/example/native"
+                "value": "ca-app-pub-3940256099942544/2247696110"
             },
             "valueType": "STRING"
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "/6499/example/banner"
+                "value": "ca-app-pub-3940256099942544/9214589741"
             },
             "valueType": "STRING"
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "/6499/example/interstitial"
+                "value": "	ca-app-pub-3940256099942544/1033173712"
             },
             "valueType": "STRING"
         }
