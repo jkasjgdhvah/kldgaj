@@ -1,4 +1,5 @@
 {
+    
     "parameters": {
         "qBack_url": {
             "defaultValue": {
@@ -24,6 +25,12 @@
             },
             "valueType": "STRING"
         },
+        "interstitial_click_count": {
+  "defaultValue": {
+    "value": "3"
+  }
+},
+
         "adx_appopen": {
             "defaultValue": {
                 "value": "ca-app-pub-3940256099942544/9257395921"
