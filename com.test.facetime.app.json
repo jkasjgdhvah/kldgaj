@@ -44,7 +44,7 @@
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "	ca-app-pub-3940256099942544/1033173712"
+                "value": "ca-app-pub-3940256099942544/1033173712"
             },
             "valueType": "STRING"
         }
