@@ -12,6 +12,9 @@
             },
             "valueType": "STRING"
         },
+
+            "interstitial_click_count": "5",
+
         "ads": {
             "defaultValue": {
                 "value": "Adx"
