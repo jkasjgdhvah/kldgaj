@@ -1,55 +1,11 @@
 {
-    "parameters": {
-        "qBack_url": {
-            "defaultValue": {
-                "value": "https://808.mark.qureka.com/intro/question"
-            },
-            "valueType": "STRING"
-        },
-        "q_url": {
-            "defaultValue": {
-                "value": "https://808.mark.qureka.com/intro/question"
-            },
-            "valueType": "STRING"
-        },
-
-            "interstitial_click_count": "5",
-
-        "ads": {
-            "defaultValue": {
-                "value": "Adx"
-            },
-            "valueType": "STRING"
-        },
-        "splashRedirect": {
-            "defaultValue": {
-                "value": "No"
-            },
-            "valueType": "STRING"
-        },
-        "adx_appopen": {
-            "defaultValue": {
-                "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_appopen"
-            },
-            "valueType": "STRING"
-        },
-        "adx_native": {
-            "defaultValue": {
-                "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_native"
-            },
-            "valueType": "STRING"
-        },
-        "adx_banner": {
-            "defaultValue": {
-                "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_banner"
-            },
-            "valueType": "STRING"
-        },
-        "adx_interstitial": {
-            "defaultValue": {
-                "value": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_inter"
-            },
-            "valueType": "STRING"
-        }
-    }
+    "qBack_url": "https://808.mark.qureka.com/intro/question",
+    "q_url": "https://808.mark.qureka.com/intro/question",
+    "ads": "adx",
+    "splashRedirect": "no",
+    "interstitial_click_count": "2",
+    "adx_appopen": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_appopen",
+    "adx_native": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_native",
+    "adx_banner": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_banner",
+    "adx_interstitial": "/22866671283/ca-mb-app-pub-8929866464106331-tag/fc12_inter"
 }
