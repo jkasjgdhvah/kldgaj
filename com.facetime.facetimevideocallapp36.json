@@ -1,11 +1,11 @@
 {
     "qBack_url": "https://808.mark.qureka.com/intro/question",
     "q_url": "https://808.mark.qureka.com/intro/question",
-    "ads": "off",
-    "splashRedirect": "yes",
-    "interstitial_click_count": "2",
-    "adx_appopen": "ca-app-pub-3940256099942544/9257395921",
-    "adx_native": "ca-app-pub-3940256099942544/2247696110",
-    "adx_banner": "ca-app-pub-3940256099942544/9214589741",
-    "adx_interstitial": "ca-app-pub-3940256099942544/1033173712"
+    "ads": "adx",
+    "splashRedirect": "no",
+    "interstitial_click_count": "3",
+    "adx_appopen": "/21753324030,22866671283/com.facetime.facetimevideocallapp36_AppOpen",
+    "adx_native": "/21753324030,22866671283/com.facetime.facetimevideocallapp36_Native",
+    "adx_banner": "/21753324030,22866671283/com.facetime.facetimevideocallapp36_Banner",
+    "adx_interstitial": "/21753324030,22866671283/com.facetime.facetimevideocallapp36_Interstitial"
 }
