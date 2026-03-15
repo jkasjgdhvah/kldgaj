@@ -2,19 +2,19 @@
     "parameters": {
         "qBack_url": {
             "defaultValue": {
-                "value": "https://808.mark.qureka.com/intro/question"
+                "value": "https://301.multigamezone.com/"
             },
             "valueType": "STRING"
         },
         "q_url": {
             "defaultValue": {
-                "value": "https://808.mark.qureka.com/intro/question"
+                "value": "https://301.multigamezone.com/"
             },
             "valueType": "STRING"
         },
         "ads": {
             "defaultValue": {
-                "value": "Adx"
+                "value": "Qureka"
             },
             "valueType": "STRING"
         },
