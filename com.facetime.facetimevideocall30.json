@@ -14,7 +14,7 @@
         },
         "ads": {
             "defaultValue": {
-                "value": "Qureka"
+                "value": "Adx"
             },
             "valueType": "STRING"
         },
@@ -32,7 +32,7 @@
         },
         "adx_native": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.facetime.facetimevideocall30_Native"
+                "value": "ca-app-pub-8380438666351959/5096024639"
             },
             "valueType": "STRING"
         },
