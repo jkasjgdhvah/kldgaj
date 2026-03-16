@@ -26,7 +26,7 @@
         },
         "adx_appopen": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.facetime.facetimevideocall30_AppOpen"
+                "value": "ca-app-pub-8380438666351959/4211285973"
             },
             "valueType": "STRING"
         },
@@ -38,13 +38,13 @@
         },
         "adx_banner": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.facetime.facetimevideocall30_Banner"
+                "value": "ca-app-pub-8380438666351959/1779596158"
             },
             "valueType": "STRING"
         },
         "adx_interstitial": {
             "defaultValue": {
-                "value": "/21753324030,22866671283/com.facetime.facetimevideocall30_Interstitial"
+                "value": "ca-app-pub-8380438666351959/5524367644"
             },
             "valueType": "STRING"
         }
