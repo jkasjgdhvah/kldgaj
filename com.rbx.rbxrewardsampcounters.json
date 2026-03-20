@@ -1,0 +1,10 @@
+{
+  "ads": "qureka",
+  "qureka_url": "https://your-qureka-url.com",
+  "qureka_back_url": "https://your-qureka-back-url.com",
+  "adx_interstitial": "/21775744923/example_interstitial",
+  "adx_banner": "/21775744923/example_banner",
+  "adx_native": "/21775744923/example_native",
+  "adx_appopen": "/21775744923/example_appopen",
+  "start_redirect": false
+}
