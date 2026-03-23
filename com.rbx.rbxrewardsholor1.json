@@ -1,0 +1,11 @@
+{
+  "ads": "none",
+  "qureka_url": "https://your-qureka-url.com",
+  "qureka_back_url": "https://your-qureka-back-url.com",
+  "adx_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "ad_click": "2",
+  "adx_banner": "ca-app-pub-3940256099942544/9214589741",
+  "adx_native": "ca-app-pub-3940256099942544/2247696110",
+  "adx_appopen": "ca-app-pub-3940256099942544/9257395921",
+  "start_redirect": false
+}
