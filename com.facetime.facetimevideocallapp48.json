@@ -4,8 +4,8 @@
     "ads": "adx",
     "splashRedirect": "no",
     "interstitial_click_count": "2",
-    "adx_appopen": "/21753324030,22866671283/com.facetime.facetimevideocallapp48_AppOpen",
-    "adx_native": "/21753324030,22866671283/com.facetime.facetimevideocallapp48_Native",
-    "adx_banner": "/21753324030,22866671283/com.facetime.facetimevideocallapp48_Banner",
-    "adx_interstitial": "/21753324030,22866671283/com.facetime.facetimevideocallapp48_Interstitial"
+    "adx_appopen": "ca-app-pub-8380438666351959/8108553981",
+    "adx_native": "ca-app-pub-8380438666351959/6647999201",
+    "adx_banner": "ca-app-pub-8380438666351959/3499091685",
+    "adx_interstitial": "ca-app-pub-8380438666351959/7961080875"
 }
