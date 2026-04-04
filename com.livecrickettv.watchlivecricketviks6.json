@@ -2,11 +2,11 @@
   "force_update": false,
   "update_url": "",
   "ad_provider": "qureka",
-  "qureka_url": "https://google.com",
+  "qureka_url": "https://808.mark.qureka.com/intro/question",
   "adx_native_id": "",
   "adx_interstitial_id": "",
   "adx_banner_id": "",
   "adx_app_open_id": "",
-  "onboarding_interstitial_interval": 3,
-  "onboarding_full": false
+  "onboarding_interstitial_interval": 1,
+  "onboarding_full": true
 }
