@@ -8,5 +8,5 @@
     "adx_banner_id": "",
     "adx_app_open_id": "",
     "onboarding_interstitial_interval": 1,
-    "onboarding_full": false
+    "onboarding_full": true
 }
