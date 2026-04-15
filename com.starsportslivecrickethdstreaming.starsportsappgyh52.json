@@ -1,6 +1,6 @@
 {
-    "force_update": false,
-    "update_url": "",
+    "force_update": true,
+    "update_url": "https://play.google.com/store/apps/details?id=com.starsportslivecrickethdstreaming.starsportsapphuj51",
     "ad_provider": "qureka",
     "qureka_url": "https://808.mark.qureka.com/intro/question",
     "adx_native_id": "",
