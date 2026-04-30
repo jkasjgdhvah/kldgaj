@@ -1,0 +1,11 @@
+{
+    "start_redirect": false,
+    "qureka_url": "https://310.multigamezone.com/",
+    "qureka_back_url": "https://310.multigamezone.com/",
+    "ads": "qureka",
+    "ads_interval": "1",
+    "adx_interstitial": "test",
+    "adx_banner": "test",
+    "adx_native": "test",
+    "adx_appopen": "test"
+}
