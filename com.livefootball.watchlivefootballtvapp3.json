@@ -1,12 +1,12 @@
 {
     "force_update": false,
     "update_url": "",
-    "ad_provider": "qureka",
+    "ad_provider": "adx",
     "qureka_url": "https://315.multigamezone.com/",
-    "adx_native_id": "",
-    "adx_interstitial_id": "",
-    "adx_banner_id": "",
-    "adx_app_open_id": "",
+    "adx_native_id": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp3_Native",
+    "adx_interstitial_id": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp3_Interstitial",
+    "adx_banner_id": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp3_Banner",
+    "adx_app_open_id": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp3_AppOpen",
     "onboarding_interstitial_interval": 1,
     "onboarding_full": true
 }
