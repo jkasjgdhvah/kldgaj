@@ -1,0 +1,11 @@
+{
+    "start_redirect": false,
+    "qureka_url": "https://1238.mark.qureka.com/intro/question",
+    "qureka_back_url": "https://1238.mark.qureka.com/intro/question",
+    "ads": "qureka",
+    "ads_interval": "1",
+    "adx_interstitial": "ca-app-pub-8380438666351959/4208049378",
+    "adx_banner": "ca-app-pub-8380438666351959/6255628212",
+    "adx_native": "ca-app-pub-8380438666351959/6882314171",
+    "adx_appopen": "ca-app-pub-8380438666351959/6395229012"
+}
