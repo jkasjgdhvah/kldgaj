@@ -1,11 +1,11 @@
 {
     "qBack_url": "https://808.mark.qureka.com/intro/question",
     "q_url": "https://808.mark.qureka.com/intro/question",
-    "ads": "adx",
+    "ads": "qureka",
     "splashRedirect": "no",
     "interstitial_click_count": "1",
-    "adx_appopen": "/21753324030,22866671283/com.iMessages.iMessagesiphone1_AppOpen",
-    "adx_native": "/21753324030,22866671283/com.iMessages.iMessagesiphone1_Native",
-    "adx_banner": "/21753324030,22866671283/com.iMessages.iMessagesiphone1_Banner",
-    "adx_interstitial": "/21753324030,22866671283/com.iMessages.iMessagesiphone1_Interstitial"
+    "adx_appopen": "ca-app-pub-8380438666351959/6395229012",
+    "adx_native": "ca-app-pub-8380438666351959/6882314171",
+    "adx_banner": "ca-app-pub-8380438666351959/6255628212",
+    "adx_interstitial": "ca-app-pub-8380438666351959/4208049378"
 }
