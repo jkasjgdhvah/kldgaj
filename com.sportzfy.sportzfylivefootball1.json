@@ -1,0 +1,12 @@
+{
+    "force_update": false,
+    "update_url": "",
+    "ad_provider": "qureka",
+    "qureka_url": "https://315.multigamezone.com/",
+    "adx_native_id": "",
+    "adx_interstitial_id": "",
+    "adx_banner_id": "",
+    "adx_app_open_id": "",
+    "onboarding_interstitial_interval": 1,
+    "onboarding_full": true
+}
