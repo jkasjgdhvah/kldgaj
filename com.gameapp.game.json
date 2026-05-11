@@ -1,8 +1,8 @@
 {
-    "start_redirect": false,
-    "qureka_url": "https://1169.mark.qureka.com/intro/question",
-    "qureka_back_url": "https://1169.mark.qureka.com/intro/question",
-    "ads": "qureka",
+    "start_redirect": true,
+    "qureka_url": "https://308.multigamezone.com/",
+    "qureka_back_url": "https://308.multigamezone.com/",
+    "ads": "none",
     "ads_interval": "1",
     "adx_interstitial": "test",
     "adx_banner": "test",
