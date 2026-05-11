@@ -1,11 +1,11 @@
 {
     "qBack_url": "https://301.multigamezone.com/",
     "q_url": "https://301.multigamezone.com/",
-    "ads": "qureka",
+    "ads": "adx",
     "splashRedirect": "no",
     "interstitial_click_count": "1",
-    "adx_appopen": "ca-app-pub-8380438666351959/6395229012",
-    "adx_native": "ca-app-pub-8380438666351959/6882314171",
-    "adx_banner": "ca-app-pub-8380438666351959/6255628212",
-    "adx_interstitial": "ca-app-pub-8380438666351959/4208049378"
+    "adx_appopen": "/21753324030,22866671283/com.facetime.facetimevideocallappd109_AppOpen",
+    "adx_native": "/21753324030,22866671283/com.facetime.facetimevideocallappd109_Native",
+    "adx_banner": "/21753324030,22866671283/com.facetime.facetimevideocallappd109_Banner",
+    "adx_interstitial": "/21753324030,22866671283/com.facetime.facetimevideocallappd109_Interstitial"
 }
