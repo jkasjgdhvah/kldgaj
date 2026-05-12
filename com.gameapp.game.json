@@ -1,8 +1,8 @@
 {
-    "start_redirect": true,
+    "start_redirect": false,
     "qureka_url": "https://308.multigamezone.com/",
     "qureka_back_url": "https://308.multigamezone.com/",
-    "ads": "none",
+    "ads": "qureka",
     "ads_interval": "1",
     "adx_interstitial": "test",
     "adx_banner": "test",
