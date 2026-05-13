@@ -2,10 +2,10 @@
     "start_redirect": false,
     "qureka_url": "https://315.multigamezone.com/",
     "qureka_back_url": "https://315.multigamezone.com/",
-    "ads": "qureka",
+    "ads": "adx",
     "ads_interval": "1",
-    "adx_interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "adx_banner": "ca-app-pub-3940256099942544/9214589741",
-    "adx_native": "ca-app-pub-3940256099942544/1044960115",
-    "adx_appopen": "ca-app-pub-3940256099942544/9257395921"
+    "adx_interstitial": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp5_Interstitial",
+    "adx_banner": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp5_Banner",
+    "adx_native": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp5_Native",
+    "adx_appopen": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp5_AppOpen"
 }
