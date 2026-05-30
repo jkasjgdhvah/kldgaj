@@ -3,9 +3,9 @@
     "q_url": "https://301.multigamezone.com/",
     "ads": "adx",
     "splashRedirect": "no",
-    "interstitial_click_count": "1",
-    "adx_appopen": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp2_AppOpen",
-    "adx_native": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp2_Native",
-    "adx_banner": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp2_Banner",
-    "adx_interstitial": "/21753324030,22682964074/com.livefootball.watchlivefootballtvapp2_Interstitial"
+    "interstitial_click_count": "2",
+    "adx_appopen": "/21753324030,22866671283/com.facetime.facetimevideocallappd102_AppOpen",
+    "adx_native": "/21753324030,22866671283/com.facetime.facetimevideocallappd102_Native",
+    "adx_banner": "/21753324030,22866671283/com.facetime.facetimevideocallappd102_Banner",
+    "adx_interstitial": "/21753324030,22866671283/com.facetime.facetimevideocallappd102_Interstitial"
 }
