@@ -1,7 +1,7 @@
 {
     "start_redirect": false,
-    "qureka_url": "https://20.go.gamescritique.com/pregames",
-    "qureka_back_url": "https://20.go.gamescritique.com/pregames",
+    "qureka_url": "https://quiz.jj-communication.com/intro/question/1",
+    "qureka_back_url": "https://quiz.jj-communication.com/intro/question/1",
     "ads": "qureka",
     "ads_interval": "1",
     "adx_interstitial": "ca-app-pub-3940256099942544/1033173712",
